@@ -76,4 +76,6 @@ else
 end
 end]]--
 
+game:Shutdown()
+
 -- game:HttpGet("https://pastebin.com/raw/zweCkBiu") pastebin account is banned so it's turned off
