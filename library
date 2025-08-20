@@ -76,7 +76,7 @@ else
 end
 end]]--
 
-if _G.Keyr ~= "grfeduhijnkreegfduhjnk then
+if _G.Keyr ~= "grfeduhijnkreegfduhjnk" then
 game:Shutdown()
 end
 
